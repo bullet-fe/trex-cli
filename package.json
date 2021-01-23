@@ -1,0 +1,18 @@
+{
+  "name": "trex-cli",
+  "version": "0.0.1",
+  "description": "Front-end tool scaffolding like Tyrannosaurus rex",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzg1023/trex-cli.git"
+  },
+  "author": "gzg1023",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gzg1023/trex-cli/issues"
+  },
+  "homepage": "https://github.com/gzg1023/trex-cli#readme"
+}
