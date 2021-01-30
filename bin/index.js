@@ -3,20 +3,14 @@
 const { program } = require('commander')
 const pkg = require('../package.json')
 const main = require('../lib/index')
+program.version(pkg.version);
 const actionMap = {
     'create': {
         desc: '创建新项目',
-        examples: ['trex create | <projectName>']
-    },
-    'config': {
-        desc: '配置项目信息',
-        examples: [
-            'trex config | set <key> <value>',
-            'trex config | get <key>'
-        ]
+        examples: ['trex create ']
     },
     'update': {
-        desc: '更新项目配置',
+        desc: '更新脚手架项目配置',
         examples: [
             'trex update'
         ]
@@ -30,7 +24,6 @@ Reflect.ownKeys(actionMap).forEach(actName => {
         .command(actName)
         .description(actionMap[actName].desc)
         .action(() => {
-            console.log(actName)
             const proName = process.argv.slice(3)
             main(actName, proName)
         })
@@ -42,6 +35,7 @@ program.on('--help', () => {
         console.log(`${actName}: ${actionMap[actName].examples}`)
     });
 })
+
 
 // --help
 program.parse(process.argv)
