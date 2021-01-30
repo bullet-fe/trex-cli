@@ -23,5 +23,13 @@
     "download-git-repo": "^3.0.2",
     "ora": "^5.3.0",
     "prompts": "^2.4.0"
-  }
+  },
+  "keywords": [
+  "cli",
+  "vue-cli",
+  "react-cli",
+  "svelet-cli",
+  "front-end-cli",
+  "download-repo"
+  ]
 }
