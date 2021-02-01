@@ -24,15 +24,15 @@
 - 下载工具【download-git-repo】[https://www.npmjs.com/package/download-git-repo](https://www.npmjs.com/package/download-git-repo)
 
 
-安装
+安装cli
 ```
-npm install -g trex 
+npm install -g trex-cli 
 
-yarn trex
+yarn global add trex-cli
 
 ```
 
-使用
+使用cli
 
 ```
 trex create 
