@@ -6,7 +6,8 @@
   "bin": {
     "trex": "./bin/index.js"
   },
-  "scripts": {},
+  "scripts": {
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gzg1023/trex-cli.git"
@@ -17,7 +18,7 @@
     "url": "https://github.com/gzg1023/trex-cli/issues"
   },
   "homepage": "https://github.com/gzg1023/trex-cli#readme",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^7.0.0",
     "download-git-repo": "^3.0.2",
@@ -25,11 +26,11 @@
     "prompts": "^2.4.0"
   },
   "keywords": [
-  "cli",
-  "vue-cli",
-  "react-cli",
-  "svelet-cli",
-  "front-end-cli",
-  "download-repo"
+    "cli",
+    "vue-cli",
+    "react-cli",
+    "svelet-cli",
+    "front-end-cli",
+    "download-repo"
   ]
 }
