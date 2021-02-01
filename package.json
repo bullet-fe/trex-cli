@@ -1,6 +1,6 @@
 {
   "name": "trex-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Front-end tool scaffolding like Tyrannosaurus rex",
   "main": "./lib/index.js",
   "bin": {
