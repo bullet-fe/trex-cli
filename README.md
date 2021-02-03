@@ -3,7 +3,7 @@
 <p align="center">
     <img alt="logo" src="https://ae02.alicdn.com/kf/H1b089ea1a40640428e8335f20d3442c6Y.png" width="140" height="133">
 </p>
-<p align="center">trex-cli 前端脚手架工具</p>
+<p align="center">trex-cli 前端项目下载脚手架工具</p>
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 - 下载工具【download-git-repo】[https://www.npmjs.com/package/download-git-repo](https://www.npmjs.com/package/download-git-repo)
 
 
-安装cli
+安装cli（建议使用npm源）
 ```
 npm install -g trex-cli 
 
