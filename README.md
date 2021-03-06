@@ -1,7 +1,7 @@
 # trex-cli
 
 <p align="center">
-    <img alt="logo" src="https://ae02.alicdn.com/kf/H1b089ea1a40640428e8335f20d3442c6Y.png" width="140" height="133">
+    <img alt="logo" src="https://i.loli.net/2021/03/06/XJUZrVDY961PgBf.png" width="140" height="133">
 </p>
 <p align="center">trex-cli 前端项目下载脚手架工具</p>
 
