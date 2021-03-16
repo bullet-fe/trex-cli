@@ -38,6 +38,8 @@ yarn global add trex-cli
 trex create 
 ```
 
+可选模版（完善中）
+- webpack5+vue3：https://github.com/gzg1023/vue3-ts-template
 
 ## LICENSE
 
