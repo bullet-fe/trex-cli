@@ -39,7 +39,8 @@ trex create
 ```
 
 可选模版（完善中）
-- webpack5+vue3：https://github.com/gzg1023/vue3-ts-template
+- webpack5和vue3+ts的模版：https://github.com/gzg1023/vue3-ts-template
+- webpack4+vue2+express的服务端渲染模版：https://github.com/gzg1023/vue2-ssr-template
 
 ## LICENSE
 
