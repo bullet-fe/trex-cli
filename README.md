@@ -39,9 +39,9 @@ trex create
 ```
 
 ## 可选模版
-- webpack5和vue3+ts的模版：https://github.com/gzg1023/vue3-ts-template
-- webpack4+vue2+express的服务端渲染模版：https://github.com/gzg1023/vue2-ssr-template
-
+- webpack5和vue3+ts的模版：https://github.com/bullet-fe/vue3-ts-template
+- webpack4+vue2+express的服务端渲染模版：https://github.com/bullet-fe/vue2-ssr-template
+- parcel + express纯静态html模版：https://github.com/bullet-fe/html-activity-template
 ## LICENSE
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
